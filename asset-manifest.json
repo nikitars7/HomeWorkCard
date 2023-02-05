@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fdd1f98.css",
+    "main.js": "/static/js/main.0cb4101c.js",
+    "static/js/787.4b846e2a.chunk.js": "/static/js/787.4b846e2a.chunk.js",
+    "static/media/Ellipse 474.svg": "/static/media/Ellipse 474.a01de88931189161f7ce.svg",
+    "static/media/document.svg": "/static/media/document.bdc4dce7a385a236fdce.svg",
+    "index.html": "/index.html",
+    "static/media/user.svg": "/static/media/user.068291be69d8df496075.svg",
+    "static/media/clock.svg": "/static/media/clock.631296585f5353cc3e42.svg",
+    "static/media/range.svg": "/static/media/range.f947b3a9bf3985632ed46f17356a2208.svg",
+    "static/media/range1.svg": "/static/media/range1.b08c840a6ea72eac4a2e604a991aec74.svg",
+    "static/media/range2.svg": "/static/media/range2.583564cb177f14014e6e4c1300f01a24.svg",
+    "static/media/Star.svg": "/static/media/Star.1ca5b1c0e9165aad00ea.svg",
+    "main.7fdd1f98.css.map": "/static/css/main.7fdd1f98.css.map",
+    "main.0cb4101c.js.map": "/static/js/main.0cb4101c.js.map",
+    "787.4b846e2a.chunk.js.map": "/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdd1f98.css",
+    "static/js/main.0cb4101c.js"
+  ]
+}
